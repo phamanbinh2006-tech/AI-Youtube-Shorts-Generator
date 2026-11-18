@@ -8,12 +8,20 @@
   "clips": [
     {
       "id": "01_anh_sang_di_cong",
-      "title": "ÁNH SÁNG ĐI THẲNG…\nSAO LẠI THEO DÒNG CONG?",
+      "title": "SAO TIA LASER\nĐI THEO DÒNG CONG?",
       "upload_title": "Ánh sáng đi thẳng, sao lại “cong” theo dòng chất lỏng?",
       "description": "Thí nghiệm laser trong dòng propylene glycol minh họa phản xạ toàn phần. Hiện tượng cần ánh sáng đi từ môi trường có chiết suất cao sang thấp và góc tới lớn hơn góc giới hạn. Không chiếu laser vào mắt. Phụ đề dịch cô đọng.",
       "spans": [
         [
           69,
+          77
+        ],
+        [
+          77,
+          87
+        ],
+        [
+          87,
           93
         ],
         [
@@ -62,11 +70,37 @@
           "end": 113,
           "text": "Nhưng khi góc tới vượt góc giới hạn,\ntia sáng bị phản xạ toàn phần."
         }
+      ],
+      "framing": [
+        [
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0.8,
+          1
+        ],
+        [
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          1,
+          1
+        ]
       ]
     },
     {
       "id": "02_giong_noi_thanh_anh_sang",
-      "title": "GIỌNG NÓI ĐI QUA\nSỢI THỦY TINH THẾ NÀO?",
+      "title": "GIỌNG NÓI BIẾN THÀNH\nÁNH SÁNG THẾ NÀO?",
       "upload_title": "Giọng nói biến thành ánh sáng như thế nào?",
       "description": "Minh họa cách truyền thông điệp bằng ánh sáng và số hóa giọng nói bằng điều chế mã xung: lấy mẫu, lượng tử hóa rồi mã hóa nhị phân. Bật/tắt ánh sáng là mô hình đơn giản trong video, không đại diện cho mọi kiểu điều chế quang hiện đại.",
       "spans": [
