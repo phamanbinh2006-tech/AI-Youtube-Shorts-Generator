@@ -1,0 +1,59 @@
+{
+  "status": "v2_reviewed_sampled_frames_audio_added",
+  "titles": [
+    "Three Cats. Three VERY Different Hunting Styles.",
+    "Ranking Cats Who Take Playtime Too Seriously",
+    "The Last Cat Turned Playtime Into Wrestling"
+  ],
+  "clips": [
+    {
+      "id": 6864992,
+      "author": "cottonbro studio",
+      "page": "https://www.pexels.com/video/playing-catch-the-bait-with-a-cat-6864992/",
+      "download": "https://videos.pexels.com/video-files/6864992/6864992-uhd_4096_2160_25fps.mp4",
+      "start": 5.5,
+      "duration": 2.5,
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "label": "THE AMBUSH",
+      "comment": "Stealth mode: OFF.",
+      "sound_hits": [
+        0.65,
+        1.35
+      ]
+    },
+    {
+      "id": 10436522,
+      "author": "julia kara",
+      "page": "https://www.pexels.com/video/cat-playing-with-string-at-home-10436522/",
+      "download": "https://videos.pexels.com/video-files/10436522/10436522-hd_1920_1080_30fps.mp4",
+      "start": 2,
+      "duration": 5.7,
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "label": "THE FISHERMAN",
+      "comment": "Catch. Release. Repeat.",
+      "sound_hits": [
+        2.2,
+        4.5
+      ]
+    },
+    {
+      "id": 4808518,
+      "author": "Yris Rodriguez",
+      "page": "https://www.pexels.com/video/cat-playing-with-bird-doll-4808518/",
+      "download": "https://videos.pexels.com/video-files/4808518/4808518-hd_1080_1728_30fps.mp4",
+      "start": 0.4,
+      "duration": 7.2,
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "label": "THE WRESTLER",
+      "comment": "The toy never stood a chance.",
+      "sound_hits": [
+        1.8,
+        4.5,
+        6.1
+      ]
+    }
+  ]
+}

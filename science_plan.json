@@ -1,0 +1,112 @@
+{
+  "source_page": "https://commons.wikimedia.org/wiki/File:The_Ingenious_Design_of_the_Aluminum_Beverage_Can.webm",
+  "source_relative": "input/aluminum_can.webm",
+  "source_duration": 699,
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/The_Ingenious_Design_of_the_Aluminum_Beverage_Can.webm",
+  "license_note": "Nguồn: The Ingenious Design of the Aluminum Beverage Can — Bill Hammack / engineerguy (2015).\nVideo gốc: https://www.youtube.com/watch?v=hUhisi2FBuw\nHồ sơ nguồn: https://commons.wikimedia.org/wiki/File:The_Ingenious_Design_of_the_Aluminum_Beverage_Can.webm\nGiấy phép: CC BY 3.0 — https://creativecommons.org/licenses/by/3.0/\nBiên tập: chọn đoạn, bố cục dọc, thêm tiêu đề và phụ đề tiếng Việt cô đọng. Không ngụ ý tác giả tài trợ hay xác nhận bản biên tập. Số liệu trong video phản ánh ví dụ của nguồn năm 2015.",
+  "clips": [
+    {
+      "id": "01_lon_nhom_kho_bop",
+      "title": "VÌ SAO LON CHƯA MỞ\nLẠI KHÓ BÓP MÉO?",
+      "upload_title": "Cùng một chiếc lon: vì sao mở ra lại dễ bóp méo?",
+      "description": "Áp suất bên trong giúp thành lon mỏng chịu lực như thế nào? Phụ đề Việt cô đọng theo thuyết minh gốc. Không phải hướng dẫn thử tải lên lon.",
+      "spans": [
+        [
+          445.979,
+          480.09
+        ]
+      ],
+      "captions": [
+        {
+          "start": 445.979,
+          "end": 451.529,
+          "text": "Áp suất bên trong giúp lon cứng cáp,\ndù thành lon rất mỏng."
+        },
+        {
+          "start": 451.529,
+          "end": 455.0,
+          "text": "Bóp một lon còn kín, có áp suất:\nnó hầu như không biến dạng."
+        },
+        {
+          "start": 455,
+          "end": 458.529,
+          "text": "Nhưng lon rỗng thì\nlại dễ dàng bị bóp méo."
+        },
+        {
+          "start": 458.86,
+          "end": 463.99,
+          "text": "Thành lon trong ví dụ này\nchỉ dày khoảng 75 micromét."
+        },
+        {
+          "start": 463.99,
+          "end": 469.139,
+          "text": "Áp suất đẩy đều ra ngoài,\ngiữ thành lon ở trạng thái chịu kéo."
+        },
+        {
+          "start": 469.139,
+          "end": 474.919,
+          "text": "Hãy hình dung như một sợi xích:\nchịu nén kém, nhưng chịu kéo tốt."
+        },
+        {
+          "start": 474.919,
+          "end": 480.09,
+          "text": "Nhờ áp suất bên trong,\ncác lon có thể được xếp chồng an toàn."
+        }
+      ]
+    },
+    {
+      "id": "02_khoen_lon_doi_diem_tua",
+      "title": "KHOEN MỞ LON\nKHÔNG CHỈ LÀ CÁI TAY KÉO",
+      "upload_title": "Khoen mở lon đổi điểm tựa ngay khi bạn bật nắp!",
+      "description": "Một chiếc khoen hoạt động lần lượt như hai loại đòn bẩy: lúc đầu nâng chốt tán để xả áp, sau đó lấy chốt làm điểm tựa để đẩy phần nắp xuống. Phụ đề Việt cô đọng theo nguồn.",
+      "spans": [
+        [
+          555.99,
+          601.35
+        ]
+      ],
+      "captions": [
+        {
+          "start": 555.99,
+          "end": 562.62,
+          "text": "Chiếc khoen gắn liền với nắp lon\nẩn chứa một thiết kế rất khéo."
+        },
+        {
+          "start": 562.62,
+          "end": 568.25,
+          "text": "Ban đầu, nó giống đòn bẩy xe cút kít:\nđầu khoen là điểm tựa, chốt tán là tải."
+        },
+        {
+          "start": 568.25,
+          "end": 574.449,
+          "text": "Bạn kéo ở đầu còn lại.\nĐiều thú vị xảy ra khi lon bắt đầu xả khí."
+        },
+        {
+          "start": 574.449,
+          "end": 580.019,
+          "text": "Khoen chuyển sang đòn bẩy loại một,\ngiống như một chiếc bập bênh."
+        },
+        {
+          "start": 580.019,
+          "end": 584.729,
+          "text": "Lúc này, chốt tán là điểm tựa;\nđầu khoen tác dụng lực lên phần nắp."
+        },
+        {
+          "start": 584.729,
+          "end": 589.87,
+          "text": "Ở giai đoạn đầu,\nkhoen nâng chốt tán lên."
+        },
+        {
+          "start": 589.87,
+          "end": 595.199,
+          "text": "Áp suất bên trong lon\ncũng hỗ trợ đẩy chốt tán lên."
+        },
+        {
+          "start": 595.199,
+          "end": 601.35,
+          "text": "Vùng nắp quanh đó biến dạng để xả khí.\nSau đó, khoen hoạt động như bập bênh."
+        }
+      ]
+    }
+  ]
+}

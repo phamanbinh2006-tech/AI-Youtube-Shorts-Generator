@@ -6,3 +6,31 @@ venv/
 output/
 *.mp4
 .DS_Store
+
+# Local media, caches and backups
+input/
+Cache/
+Download/
+Temp/
+*.webm
+*.mkv
+*.mp3
+*.wav
+*.zip
+*.bak
+.env.*
+!.env.example
+
+# Local media, caches and backups
+input/
+Cache/
+Download/
+Temp/
+*.webm
+*.mkv
+*.mp3
+*.wav
+*.zip
+*.bak
+.env.*
+!.env.example

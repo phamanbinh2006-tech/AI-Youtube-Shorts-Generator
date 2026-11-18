@@ -1,0 +1,163 @@
+{
+  "source_page": "https://svs.gsfc.nasa.gov/14938/",
+  "source_relative": "input/nasa_lunar_flyby_720.mp4",
+  "source_duration": 357.0133125,
+  "source_release": "2025-12-22",
+  "license_note": "PRIVATE PREVIEW ONLY. Original audio includes third-party Universal Production Music. Not cleared for republication. No automatic upload.",
+  "clips": [
+    {
+      "id": "01_ky_uc_mat_trang",
+      "title": "MẶT TRĂNG GIỮ LẠI\nLỊCH SỬ NHƯ THẾ NÀO?",
+      "description": "Vì sao địa hình Mặt Trăng lưu giữ nhiều dấu vết cổ xưa? Trích giải thích của Ernie Wright, NASA. Phụ đề tiếng Việt biên dịch cô đọng; bản thử riêng tư, âm thanh gốc chưa được cấp quyền đăng lại.",
+      "spans": [
+        [
+          48.92,
+          94.32
+        ]
+      ],
+      "reason": "So sánh Trái Đất và Mặt Trăng, có luận điểm và kết luận trong một đoạn.",
+      "captions": [
+        {
+          "start": 48.92,
+          "end": 54.96,
+          "text": "Không có đại dương, mây\nvà nhiều thứ như trên Trái Đất,"
+        },
+        {
+          "start": 54.96,
+          "end": 57.52,
+          "text": "Mặt Trăng nổi bật\nchính ở địa hình của nó."
+        },
+        {
+          "start": 57.52,
+          "end": 62.88,
+          "text": "Địa hình kể lại lịch sử Mặt Trăng\nvà cả Hệ Mặt Trời."
+        },
+        {
+          "start": 63.52,
+          "end": 68.8,
+          "text": "Trên Trái Đất, nhiều dấu vết bị xóa\nbởi địa chất, thời tiết"
+        },
+        {
+          "start": 68.8,
+          "end": 74.88,
+          "text": "và khí hậu. Mặt Trăng giữ lại\nnhiều dấu tích ấy"
+        },
+        {
+          "start": 74.88,
+          "end": 79.2,
+          "text": "từ khi hình thành\ngần 4,5 tỷ năm trước."
+        },
+        {
+          "start": 79.2,
+          "end": 83.0,
+          "text": "Chúng giúp ta hiểu nguồn gốc\ncủa mình và Hệ Mặt Trời."
+        },
+        {
+          "start": 83.0,
+          "end": 89.44,
+          "text": "Và hé lộ về thành phần Trái Đất\nvốn bị chôn dưới lớp vỏ."
+        },
+        {
+          "start": 89.44,
+          "end": 94.32,
+          "text": "Các vụ va chạm đã đưa vật chất\nsâu bên dưới lên mặt Mặt Trăng."
+        }
+      ],
+      "upload_title": "Vì sao Mặt Trăng giữ được dấu vết từ hàng tỷ năm trước?"
+    },
+    {
+      "id": "03_earthrise",
+      "title": "TRÁI ĐẤT “MỌC”\nTRÊN CHÂN TRỜI MẶT TRĂNG",
+      "description": "Khoảnh khắc Earthrise trong chuyến Apollo 8 và cảm nhận khi thấy Trái Đất từ một thiên thể khác. Tư liệu NASA, phụ đề Việt biên dịch cô đọng. Đã bỏ một khoảng ngừng khoảng 4 giây. Bản thử riêng tư; nhạc gốc chưa được cấp quyền đăng lại.",
+      "spans": [
+        [
+          277.14,
+          292.22
+        ],
+        [
+          296.22,
+          328.94
+        ]
+      ],
+      "reason": "Có câu chuyện, lời thoại thật và kết thúc giàu cảm xúc; loại khoảng nghỉ dài nhưng giữ nguyên thứ tự phát biểu.",
+      "captions": [
+        {
+          "start": 277.14,
+          "end": 279.5,
+          "text": "Trong vòng bay thứ tư của Apollo 8,"
+        },
+        {
+          "start": 279.5,
+          "end": 284.78,
+          "text": "họ xoay tàu để nhìn\nvề phía Trái Đất."
+        },
+        {
+          "start": 284.78,
+          "end": 287.22,
+          "text": "“Ôi trời, nhìn cảnh kia kìa!”"
+        },
+        {
+          "start": 287.22,
+          "end": 290.02,
+          "text": "“Trái Đất đang nhô lên. Đẹp quá!”"
+        },
+        {
+          "start": 290.02,
+          "end": 292.22,
+          "text": "“Này, đừng chụp! Không có\ntrong lịch đâu.”"
+        },
+        {
+          "start": 296.22,
+          "end": 298.22,
+          "text": "“Jim, có phim màu không?”"
+        },
+        {
+          "start": 298.22,
+          "end": 302.1,
+          "text": "Họ bất ngờ trước vẻ đẹp\nvà cảm xúc rất đỗi con người"
+        },
+        {
+          "start": 302.1,
+          "end": 305.66,
+          "text": "khi thấy toàn bộ Trái Đất"
+        },
+        {
+          "start": 305.66,
+          "end": 308.94,
+          "text": "nhô lên sau chân trời\ncủa một thiên thể khác."
+        },
+        {
+          "start": 308.94,
+          "end": 312.74,
+          "text": "Bức ảnh “Earthrise”\nđã gây tiếng vang lớn."
+        },
+        {
+          "start": 312.74,
+          "end": 315.82,
+          "text": "Từ không gian,\nta không thấy biên giới quốc gia,"
+        },
+        {
+          "start": 315.82,
+          "end": 319.7,
+          "text": "hay nhiều vấn đề mà con người\nđối mặt trên mặt đất."
+        },
+        {
+          "start": 319.7,
+          "end": 322.62,
+          "text": "Ta nhận ra Trái Đất\nlà một nơi hữu hạn."
+        },
+        {
+          "start": 322.62,
+          "end": 324.9,
+          "text": "Không vô tận. Không phải tất cả."
+        },
+        {
+          "start": 324.9,
+          "end": 328.94,
+          "text": "Chỉ là một chấm xanh nhạt\ngiữa không gian bao la."
+        }
+      ],
+      "upload_title": "Khoảnh khắc phi hành gia nhìn thấy Trái Đất “mọc”"
+    }
+  ]
+}

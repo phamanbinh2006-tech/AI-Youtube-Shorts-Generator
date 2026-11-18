@@ -1,0 +1,145 @@
+{
+  "source_page": "https://commons.wikimedia.org/wiki/File:Fiber_optic_cables_%E2%80%94_How_they_work.webm",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Fiber_optic_cables_%E2%80%94_How_they_work.webm",
+  "youtube_url": "https://www.youtube.com/watch?v=0MwMkBET_5I",
+  "source_relative": "input/fiber_optics.webm",
+  "source_duration": 335.252,
+  "license_note": "Nguồn: Fiber optic cables — How they work (2011), engineerguy — Bill Hammack, Nick Ziech & Patrick Ryan.\nVideo gốc: https://www.youtube.com/watch?v=0MwMkBET_5I\nNguồn tệp: https://commons.wikimedia.org/wiki/File:Fiber_optic_cables_%E2%80%94_How_they_work.webm\nGiấy phép nguồn và bản biên tập video/phụ đề này: Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0).\nhttps://creativecommons.org/licenses/by-sa/3.0/\nThay đổi: chọn và nối đoạn, bố cục dọc, tiêu đề và phụ đề tiếng Việt cô đọng, cân bằng âm lượng. Không ngụ ý tác giả xác nhận hay tài trợ. Khi chia sẻ bản biên tập, giữ thông tin ghi công và giấy phép cùng điều kiện chia sẻ tương tự.",
+  "clips": [
+    {
+      "id": "01_anh_sang_di_cong",
+      "title": "ÁNH SÁNG ĐI THẲNG…\nSAO LẠI THEO DÒNG CONG?",
+      "upload_title": "Ánh sáng đi thẳng, sao lại “cong” theo dòng chất lỏng?",
+      "description": "Thí nghiệm laser trong dòng propylene glycol minh họa phản xạ toàn phần. Hiện tượng cần ánh sáng đi từ môi trường có chiết suất cao sang thấp và góc tới lớn hơn góc giới hạn. Không chiếu laser vào mắt. Phụ đề dịch cô đọng.",
+      "spans": [
+        [
+          69,
+          93
+        ],
+        [
+          104,
+          113
+        ]
+      ],
+      "captions": [
+        {
+          "start": 69,
+          "end": 70,
+          "text": "Thật kỳ diệu!"
+        },
+        {
+          "start": 70,
+          "end": 74,
+          "text": "Ánh sáng đi theo dòng chất lỏng\nxuống tận chiếc xô."
+        },
+        {
+          "start": 74,
+          "end": 77,
+          "text": "Đó là nhờ hiện tượng\nphản xạ toàn phần."
+        },
+        {
+          "start": 77,
+          "end": 82,
+          "text": "Tia sáng phản xạ khi chạm mặt\nphân cách giữa chất lỏng và không khí."
+        },
+        {
+          "start": 82,
+          "end": 86,
+          "text": "Đây là lần phản xạ thứ nhất,\nrồi đến lần thứ hai, thứ ba."
+        },
+        {
+          "start": 86,
+          "end": 93,
+          "text": "Chiết suất của chất lỏng propylene glycol\nkhác với không khí bên ngoài."
+        },
+        {
+          "start": 104,
+          "end": 107,
+          "text": "Phản xạ và khúc xạ\ncó thể xảy ra cùng lúc."
+        },
+        {
+          "start": 107,
+          "end": 113,
+          "text": "Nhưng khi góc tới vượt góc giới hạn,\ntia sáng bị phản xạ toàn phần."
+        }
+      ]
+    },
+    {
+      "id": "02_giong_noi_thanh_anh_sang",
+      "title": "GIỌNG NÓI ĐI QUA\nSỢI THỦY TINH THẾ NÀO?",
+      "upload_title": "Giọng nói biến thành ánh sáng như thế nào?",
+      "description": "Minh họa cách truyền thông điệp bằng ánh sáng và số hóa giọng nói bằng điều chế mã xung: lấy mẫu, lượng tử hóa rồi mã hóa nhị phân. Bật/tắt ánh sáng là mô hình đơn giản trong video, không đại diện cho mọi kiểu điều chế quang hiện đại.",
+      "spans": [
+        [
+          209,
+          237
+        ],
+        [
+          248,
+          259
+        ],
+        [
+          268,
+          279
+        ]
+      ],
+      "captions": [
+        {
+          "start": 209,
+          "end": 214,
+          "text": "Ta có thể thống nhất trước một mã\nvới người ở đầu kia, chẳng hạn mã Morse."
+        },
+        {
+          "start": 214,
+          "end": 219,
+          "text": "Che rồi mở tia laser tạo các chớp sáng\nđể truyền một thông điệp."
+        },
+        {
+          "start": 219,
+          "end": 225,
+          "text": "Với giọng nói trong cuộc gọi,\nkỹ sư dùng điều chế mã xung — PCM."
+        },
+        {
+          "start": 225,
+          "end": 228,
+          "text": "Trước hết, lấy mẫu tín hiệu\ntại những thời điểm khác nhau."
+        },
+        {
+          "start": 228,
+          "end": 232,
+          "text": "Sau đó xấp xỉ biên độ\ncủa từng mẫu."
+        },
+        {
+          "start": 232,
+          "end": 237,
+          "text": "Tín hiệu số chỉ dùng\nnhững mức biên độ rời rạc."
+        },
+        {
+          "start": 248,
+          "end": 252,
+          "text": "Mã hóa biên độ mỗi mẫu\nthành một chuỗi số 1 và 0."
+        },
+        {
+          "start": 252,
+          "end": 257,
+          "text": "Ví dụ: giá trị 10 được viết\nthành 1010 trong hệ nhị phân."
+        },
+        {
+          "start": 257,
+          "end": 259,
+          "text": "Làm tương tự với các mẫu còn lại."
+        },
+        {
+          "start": 268,
+          "end": 273,
+          "text": "Chuỗi này được truyền qua sợi quang:\ntrong ví dụ, sáng là 1, tắt là 0."
+        },
+        {
+          "start": 273,
+          "end": 279,
+          "text": "Đầu nhận biết quy tắc mã hóa,\nnên có thể giải mã thông điệp."
+        }
+      ]
+    }
+  ]
+}
